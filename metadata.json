@@ -1,0 +1,6 @@
+{
+  "name": "AI Financial Forecasting Platform",
+  "description": "An institutional-grade financial analysis and predictive forecasting platform combining market data, fundamentals, macroeconomics, news sentiment, and social signals with explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
